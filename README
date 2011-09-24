@@ -4,7 +4,7 @@ Installation
 ------------
 1. Install python 2.3 or later + py-bsddb
 2. Download and unpack http://www.planetplanet.org/download/planet-2.0.tar.bz2 to ./planet-2.0
-3. mkdir cache logs docs
+3. mkdir cache logs
 4. Run 'python planet-2.0/planet.py -v templates/osaa/config.ini' and verify the generated output
 5. Add 'cd /path/to/topleveldir && python planet-2.0/planet.py templates/osaa/config.ini' to cron
 6. Profit
